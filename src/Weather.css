@@ -25,15 +25,15 @@
 }
 
 .Weather canvas {
-  height: 64px;
-  width: 64px;
-  margin-right: 10px;
+  height: 60px;
+  width: 60px;
+  margin-right: 5px;
   vertical-align: bottom;
 }
 
 .Weather .temperature {
   color: rgb(32, 33, 36);
-  font-size: 66px;
+  font-size: 60px;
   font-weight: 400;
   line-height: 64px;
 }
